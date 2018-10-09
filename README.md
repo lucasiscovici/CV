@@ -83,3 +83,6 @@ trois mois consécutifs.
     - BackEnd: Spring Boot (gradle, Web Services, JPA, Security,hsqldb)
     - FrontEnt: Front-End: Framework Vue.js (The Progressive JavaScript Framework)
       - npm, webpack, scss, babel, vuex, vue-persistedstate
+  -  (BDAV)
+    - Sentimental Analysis (Amazon)
+    - Text Mining
