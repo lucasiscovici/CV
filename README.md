@@ -31,7 +31,7 @@
 ### Coursera
 - Introduction  to recommender systems: non personalized and content based
 
-###In Progress
+### In Progress
 - H20
 - Spark
 - Julia
@@ -42,11 +42,13 @@
 - Python (numpy, pandas, scikit-learn), C, PHP, SQL, Bash, Java
 - Web, AdminSys, AI Data, AI Agent, OOP, DB, Network
 - Projects:
-  - Supervised research (Atelier de recherche encadrée) (/luluperet/ARE)[https://github.com/luluperet/ARE] (L1,Bachelor1) (Modeling the spread of an epidemic with and without population movement) (Modélisation de la propagation d'une épidémie avec et sans mouvement de la population)
+  - Supervised research (Atelier de recherche encadrée) [/luluperet/ARE](https://github.com/luluperet/ARE) (L1,Bachelor1) 
+    - (Modeling the spread of an epidemic with and without population movement) (Modélisation de la propagation d'une épidémie avec et sans mouvement de la population)
     - python 
     - simple SIR model
     - graphics
-  - Football and strategy (FOOTBALL ET STRATÉGIE) (/luluperet/2I013)[https://github.com/luluperet/2I013] (L2,Bachelor2) (Programming virtual football players, Artificial intelligence and programming of coherent collective behaviors)
+  - Football and strategy (FOOTBALL ET STRATÉGIE) [/luluperet/2I013](https://github.com/luluperet/2I013)(L2,Bachelor2)  
+    - (Programming virtual football players, Artificial intelligence and programming of coherent collective behaviors)
     - python, OOP
     - Agent
     - Design Patterns: Strategy, Adapter, Decorator, State/Proxy, 
