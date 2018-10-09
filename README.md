@@ -41,7 +41,7 @@
 ### Bachelor Computer Science (Licence Infomatique) 
 - Python (numpy, pandas, scikit-learn), C, PHP, SQL, Bash, Java
 - Web, AdminSys, AI Data, AI Agent, OOP, DB, Network
-- Projects:
+- ***Projects***:
   - Supervised research (Atelier de recherche encadrée) [/luluperet/ARE](https://github.com/luluperet/ARE) (L1,Bachelor1) 
     - (Modeling the spread of an epidemic with and without population movement) (Modélisation de la propagation d'une épidémie avec et sans mouvement de la population)
     - python 
