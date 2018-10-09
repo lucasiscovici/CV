@@ -56,3 +56,10 @@
     - Decision Trees
     - Markov decision process 
     - Q-learning
+  - Web Technologies [/luluperet/3I017](https://github.com/luluperet/3I017)
+    - (Twitter)
+    - JAVA, JDBC
+    - Servlet - TOMCAT - Web Services
+    - HTML, CSS, JS, AJAX 
+    - MongoDB, MySQL
+    - Map/Reduce
