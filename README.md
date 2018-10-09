@@ -39,8 +39,8 @@
 
 ## University
 ### Bachelor Computer Science (Licence Infomatique) 
-- Python (numpy, pandas, scikit-learn), C, PHP, SQL, Bash, Java
-- Web, AdminSys, AI Data, AI Agent, OOP, DB, Network
+- Python (numpy, pandas, scikit-learn), C, PHP, SQL, Bash, Java, HTML, CSS, JS, AJAX, NOSSQL
+- Web, AdminSys, AI Data, AI Agent, OOP, DB, Network, DP, Supervised Learning, Reinforcement Learning, UnSupervised Learning
 - ***Projects***:
   - Supervised research (Atelier de recherche encadrée) [/luluperet/ARE](https://github.com/luluperet/ARE) (L1,Bachelor1) 
     - (Modeling the spread of an epidemic with and without population movement) (Modélisation de la propagation d'une épidémie avec et sans mouvement de la population)
@@ -63,3 +63,23 @@
     - HTML, CSS, JS, AJAX 
     - MongoDB, MySQL
     - Map/Reduce
+### MASTER COMPUTER SCIENCE (ARTIFICIAL INTELLIGENCE - MACHINE LEARNING FOR DATA SCIENCE)
+- C++, Java(J2EE, EJB, JMS), R, Bash, UML(starUML), Scilab, Python (numpy, pandas, scikit-learn)
+- Management de projet (Agile), Droit de l'informatique et prop industrielle
+- Supervised Learning, Reinforcement Learning, UnSupervised Learning
+- Git, Docker
+- ***Projects***:
+  - Analyse de Données [/luluisco/ADD](https://github.com/luluperet/ADD) (ADD) 
+    - Analyser de données du jeu de données “villes”, présentant par villes, différentes informations, tel que les salaires moyen de plusieurs métiers, les prix et quelques indicateurs essentiellement économiques.
+    - R (FactoMineR, factoextra, corrplot)
+    - EDA, PCA
+  - XPLANNER | Web  [/luluisco/XPLANNER](https://github.com/luluperet/XPLANNER) (Internet et services Web, Applications distribuées)
+    - FeedBack Planner 90 est un site web qui a pour but la création de TodoList ( de listes de choses à faire), pour chaque sessions, mois, semaines et jours. 
+    Nous pensons que pour bien s’organiser il faut déterminer des sessions, qui sont simplement
+trois mois consécutifs.
+90 jours étant un nombre de jours, ni trop court et ni trop long, pour bien s’organiser
+    - Création d'un site web (FrontEnd, BackEnd) 
+    - git, docker, docker-compose et make
+    - BackEnd: Spring Boot (gradle, Web Services, JPA, Security,hsqldb)
+    - FrontEnt: Front-End: Framework Vue.js (The Progressive JavaScript Framework)
+      - npm, webpack, scss, babel, vuex, vue-persistedstate
