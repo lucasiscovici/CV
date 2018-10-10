@@ -83,6 +83,26 @@ trois mois consécutifs.
     - BackEnd: Spring Boot (gradle, Web Services, JPA, Security,hsqldb)
     - FrontEnt: Front-End: Framework Vue.js (The Progressive JavaScript Framework)
       - npm, webpack, scss, babel, vuex, vue-persistedstate
-  -  (BDAV)
-    - Sentimental Analysis (Amazon)
-    - Text Mining
+  -  Analyse des Sentiments sur AMAZON [/luluisco/BDAV](https://github.com/luluperet/BDAV) (BDAV)
+     - Combinaison des N-grams(unigram, bigram,trigram) et de méthodes ensemblistes  (Naive Bayes, Voting, Stacking)
+     - Scraping Sur Amazon (PHP)
+     - Préprocessing: Text Mining (scikit-learn, NLTK ) 
+        - Tokenization, stop words, encoding, bag of words, Regex ... (nltk)
+        - Lemminization -> Treetagger
+     - Models: MultinomialNB,VotingClassifier(soft, hard), Stacking
+  - Méthodes de classification pour des données législatives et judiciaires (R)
+    - Étude comparative de différent algorithmes et critères de choix de nombre de classes (CAH, Kmeans, Skmeans, Tf-Idf, Chi-2, Elbow, Silhouette, Gap )
+    - Les données sont des decisions, arrêts des juridictions administratives, et de la Cour de cassation.
+      Le but était de trouver toutes les mentions aux articles des différentes codes ou des conventions européennes et internationales dans ces textes.
+      Nous avons du utiliser divers méthodes pour trouver ces articles qui étaient indiqué de divers façon (blabla)
+    - Récuperation des données sur data.gouv.fr (JADE, CASS)
+    - Preprocessing: Text Mining
+      - Bash, Regex, Tokenization, etc ... (script bash et python)
+    - Clustering:
+      - CAH (min,max,average,ward)
+      - kmeans (avec et sans TF-IDF) (avec et sans la metrique du chi-2)
+      - skmeans 
+      - différents metrics : 
+        - critere du Kaiser (du coude) (wss)
+        - silhouette
+        - 
