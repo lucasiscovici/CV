@@ -90,7 +90,7 @@ trois mois consécutifs.
         - Tokenization, stop words, encoding, bag of words, Regex ... (nltk)
         - Lemminization -> Treetagger
      - Models: MultinomialNB,VotingClassifier(soft, hard), Stacking
-  - Méthodes de classification pour des données législatives et judiciaires (R)
+  - Méthodes de clustering pour des données législatives et judiciaires (R)
     - Étude comparative de différent algorithmes et critères de choix de nombre de classes (CAH, Kmeans, Skmeans, Tf-Idf, Chi-2, Elbow, Silhouette, Gap )
     - Les données sont des decisions, arrêts des juridictions administratives, et de la Cour de cassation.
       Le but était de trouver toutes les mentions aux articles des différentes codes ou des conventions européennes et internationales dans ces textes.
