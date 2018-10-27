@@ -128,3 +128,6 @@ trois mois consécutifs.
   - Co-Créateur de la société IB DIGITAL SAS, et d’une structure dénommée L’AgenceWebEtudiante.fr (Fini)
     - Réalisation de sites Web professionnels dans le domaine juridique et dans les activités du transport et de la restauration
     - Réalisation d’une application mobile professionnel pour les VTC
+  -  Superprof en Informatique <a href="https://www.superprof.fr/informatique-cours-initiations-questions-niveaux-1er-cours-offert.html">Superprof</a>
+    - J'ai donné près de 100h de cours d'informatique en programmation Web et mobile (IOS), Java et VBA
+    
