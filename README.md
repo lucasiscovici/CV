@@ -63,17 +63,17 @@
     - HTML, CSS, JS, AJAX 
     - MongoDB, MySQL
     - Map/Reduce
-### MASTER COMPUTER SCIENCE (ARTIFICIAL INTELLIGENCE - MACHINE LEARNING FOR DATA SCIENCE)
+### Master Computer Science (ARTIFICIAL INTELLIGENCE - MACHINE LEARNING FOR DATA SCIENCE)
 - C++, Java(J2EE, EJB, JMS), R, Bash, UML(starUML), Scilab, Python (numpy, pandas, scikit-learn)
 - Management de projet (Agile), Droit de l'informatique et prop industrielle
 - Supervised Learning, Reinforcement Learning, UnSupervised Learning
 - Git, Docker
 - ***Projects***:
-  - Analyse de Données [/luluisco/ADD](https://github.com/luluperet/ADD) (ADD) 
+  - *Analyse de Données* [/luluisco/ADD](https://github.com/luluperet/ADD) (ADD) 
     - Analyser de données du jeu de données “villes”, présentant par villes, différentes informations, tel que les salaires moyen de plusieurs métiers, les prix et quelques indicateurs essentiellement économiques.
     - R (FactoMineR, factoextra, corrplot)
     - EDA, PCA
-  - XPLANNER | Web  [/luluisco/XPLANNER](https://github.com/luluperet/XPLANNER) (Internet et services Web, Applications distribuées)
+  - *XPLANNER | Web*  [/luluisco/XPLANNER](https://github.com/luluperet/XPLANNER) (Internet et services Web, Applications distribuées)
     - FeedBack Planner 90 est un site web qui a pour but la création de TodoList ( de listes de choses à faire), pour chaque sessions, mois, semaines et jours. 
     Nous pensons que pour bien s’organiser il faut déterminer des sessions, qui sont simplement
 trois mois consécutifs.
@@ -90,11 +90,11 @@ trois mois consécutifs.
         - Tokenization, stop words, encoding, bag of words, Regex ... (nltk)
         - Lemminization -> Treetagger
      - Models: MultinomialNB,VotingClassifier(soft, hard), Stacking
-  - Méthodes de clustering pour des données législatives et judiciaires (R)
+  - *Méthodes de clustering pour des données législatives et judiciaires* (R)
     - Étude comparative de différent algorithmes et critères de choix de nombre de classes (CAH, Kmeans, Skmeans, Tf-Idf, Chi-2, Elbow, Silhouette, Gap )
     - Les données sont des decisions, arrêts des juridictions administratives, et de la Cour de cassation.
-      Le but était de trouver toutes les mentions aux articles des différentes codes ou des conventions européennes et internationales dans ces textes.
-      Nous avons du utiliser divers méthodes pour trouver ces articles qui étaient indiqué de divers façon (blabla)
+      Le but était de trouver toutes les mentions aux articles des différents codes ou des conventions européennes et internationales dans ces textes.
+      Nous avons du utiliser divers méthodes pour trouver ces articles qui étaient indiqué de divers façon.
     - Récuperation des données sur data.gouv.fr (JADE, CASS)
     - Preprocessing: Text Mining
       - Bash, Regex, Tokenization, etc ... (script bash et python)
@@ -102,7 +102,9 @@ trois mois consécutifs.
       - CAH (min,max,average,ward)
       - kmeans (avec et sans TF-IDF) (avec et sans la metrique du chi-2)
       - skmeans 
-      - différents metrics : 
+      - différentes metrics : 
         - critere du Kaiser (du coude) (wss)
         - silhouette
-        - 
+        - gap
+    - Visualisation:
+      - Factoextra
