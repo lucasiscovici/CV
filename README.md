@@ -83,7 +83,7 @@ trois mois consécutifs.
     - BackEnd: Spring Boot (gradle, Web Services, JPA, Security,hsqldb)
     - FrontEnt: Front-End: Framework Vue.js (The Progressive JavaScript Framework)
       - npm, webpack, scss, babel, vuex, vue-persistedstate
-  -  <span style="text-decoration:underline">Analyse des Sentiments sur AMAZON</span> [/luluisco/BDAV](https://github.com/luluperet/BDAV) (BDAV)
+  -  <span style=\"text-decoration:underline\">Analyse des Sentiments sur AMAZON</span> [/luluisco/BDAV](https://github.com/luluperet/BDAV) (BDAV)
      - Combinaison des N-grams(unigram, bigram,trigram) et de méthodes ensemblistes  (Naive Bayes, Voting, Stacking)
      - Scraping Sur Amazon (PHP)
      - Préprocessing: Text Mining (scikit-learn, NLTK ) 
