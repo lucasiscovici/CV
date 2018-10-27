@@ -27,7 +27,15 @@
       - Feature Extraction, Feature Selection
       - PCA, TSNE, NMF
     - Keras (DeepLearning)
-- <a href="https://www.datacamp.com/courses/biomedical-image-analysis-in-python" target="_blank">Biomedical Image Analysis in Python</a> (The fundamentals of image analysis using NumPy, SciPy, and Matplotlib (whole-body CT scan, segment a cardiac MRI time series, determine whether Alzheimer’s disease changes brain structure))
+- <a href="https://www.datacamp.com/courses/biomedical-image-analysis-in-python" target="_blank">Biomedical Image Analysis in Python</a>
+  - The fundamentals of image analysis using NumPy, SciPy, and Matplotlib (whole-body CT scan, segment a cardiac MRI time series, determine whether Alzheimer’s disease changes brain structure)
+    - scipy.ndimage, imageio
+    - Image Segmentation, Image Transformation
+- <a> href="https://www.datacamp.com/courses/nlp-fundamentals-in-python">Natural Language Processing Fundamentals in Python Course</a>
+  - The foundation to process and parse text 
+    - How to identify and separate words, how to extract topics in a text, and how to build your own fake news classifier
+    - How to use basic libraries such as NLTK, alongside libraries which utilize deep learning to solve common NLP problems
+  - NLTK, scikit-learn, regex, gensim, spaCy, polyglot, fuzzywuzzy, difflib
 ### Coursera
 - Introduction  to recommender systems: non personalized and content based
 
