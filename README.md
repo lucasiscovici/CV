@@ -42,12 +42,12 @@
 - Python (numpy, pandas, scikit-learn), C, PHP, SQL, Bash, Java, HTML, CSS, JS, AJAX, NOSSQL
 - Web, AdminSys, AI Data, AI Agent, OOP, DB, Network, DP, Supervised Learning, Reinforcement Learning, UnSupervised Learning
 - ***Projects***:
-  - Supervised research (Atelier de recherche encadrée) [/luluperet/ARE](https://github.com/luluperet/ARE) (L1,Bachelor1) 
+  - **Supervised research (Atelier de recherche encadrée)** [/luluperet/ARE](https://github.com/luluperet/ARE) (L1,Bachelor1) 
     - (Modeling the spread of an epidemic with and without population movement) (Modélisation de la propagation d'une épidémie avec et sans mouvement de la population)
     - python 
     - simple SIR model
     - graphics
-  - Football and strategy (FOOTBALL ET STRATÉGIE) [/luluperet/2I013](https://github.com/luluperet/2I013)(L2,Bachelor2)  
+  - **Football and strategy (FOOTBALL ET STRATÉGIE)** [/luluperet/2I013](https://github.com/luluperet/2I013)(L2,Bachelor2)  
     - (Programming virtual football players, Artificial intelligence and programming of coherent collective behaviors)
     - python, OOP
     - Agent
@@ -56,7 +56,7 @@
     - Decision Trees
     - Markov decision process 
     - Q-learning
-  - Web Technologies [/luluperet/3I017](https://github.com/luluperet/3I017)
+  - **Web Technologies** [/luluperet/3I017](https://github.com/luluperet/3I017)
     - (Twitter)
     - JAVA, JDBC
     - Servlet - TOMCAT - Web Services
