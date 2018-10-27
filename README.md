@@ -116,3 +116,15 @@ trois mois consécutifs.
         - gap
     - Visualisation:
       - Factoextra
+## Professional Experience
+  - Développeur Web et intervention en matière de communication 
+    - Cabinet d’Avocats Wojakowski, Paris (France)
+    - www.cabinet-wojakowski.com
+    - Réalisation d'un site Web professionnel
+    - Gestion de la communication et des campagnes promotionnelles (Google Adwords)
+  - Conception et réalisation d’une application de recommandations (Suggest - IA Recommendation) dans plusieurs domaines culturels (Cinéma, Musique, Lecture et Séries TV) 
+    - Réalisation d’une application Mobile iOS (Xcode, Swift 3)
+    - Réalisation d’une Interface API/REST BackEnd (PHP, MySql)
+  - Co-Créateur de la société IB DIGITAL SAS, et d’une structure dénommée L’AgenceWebEtudiante.fr (Fini)
+    - Réalisation de sites Web professionnels dans le domaine juridique et dans les activités du transport et de la restauration
+    - Réalisation d’une application mobile professionnel pour les VTC
