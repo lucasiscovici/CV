@@ -69,11 +69,11 @@
 - Supervised Learning, Reinforcement Learning, UnSupervised Learning
 - Git, Docker
 - ***Projects***:
-  - <span style="text-decoration:underline">Analyse de Données</span>[/luluisco/ADD](https://github.com/luluperet/ADD) (ADD) 
+  - **Analyse de Données**[/luluisco/ADD](https://github.com/luluperet/ADD) (ADD) 
     - Analyser de données du jeu de données “villes”, présentant par villes, différentes informations, tel que les salaires moyen de plusieurs métiers, les prix et quelques indicateurs essentiellement économiques.
     - R (FactoMineR, factoextra, corrplot)
     - EDA, PCA
-  - <span style="text-decoration:underline">XPLANNER | Web</span>  [/luluisco/XPLANNER](https://github.com/luluperet/XPLANNER) (Internet et services Web, Applications distribuées)
+  - **XPLANNER | Web**  [/luluisco/XPLANNER](https://github.com/luluperet/XPLANNER) (Internet et services Web, Applications distribuées)
     - FeedBack Planner 90 est un site web qui a pour but la création de TodoList ( de listes de choses à faire), pour chaque sessions, mois, semaines et jours. 
     Nous pensons que pour bien s’organiser il faut déterminer des sessions, qui sont simplement
 trois mois consécutifs.
@@ -83,14 +83,14 @@ trois mois consécutifs.
     - BackEnd: Spring Boot (gradle, Web Services, JPA, Security,hsqldb)
     - FrontEnt: Front-End: Framework Vue.js (The Progressive JavaScript Framework)
       - npm, webpack, scss, babel, vuex, vue-persistedstate
-  -  <span style=\"text-decoration:underline\">Analyse des Sentiments sur AMAZON</span> [/luluisco/BDAV](https://github.com/luluperet/BDAV) (BDAV)
+  -  **Analyse des Sentiments sur AMAZON** [/luluisco/BDAV](https://github.com/luluperet/BDAV) (BDAV)
      - Combinaison des N-grams(unigram, bigram,trigram) et de méthodes ensemblistes  (Naive Bayes, Voting, Stacking)
      - Scraping Sur Amazon (PHP)
      - Préprocessing: Text Mining (scikit-learn, NLTK ) 
         - Tokenization, stop words, encoding, bag of words, Regex ... (nltk)
         - Lemminization -> Treetagger
      - Models: MultinomialNB,VotingClassifier(soft, hard), Stacking
-  - <u>Méthodes de clustering pour des données législatives et judiciaires</u> (R)
+  - **Méthodes de clustering pour des données législatives et judiciaires** (R)
     - Étude comparative de différent algorithmes et critères de choix de nombre de classes (CAH, Kmeans, Skmeans, Tf-Idf, Chi-2, Elbow, Silhouette, Gap )
     - Les données sont des decisions, arrêts des juridictions administratives, et de la Cour de cassation.
       Le but était de trouver toutes les mentions aux articles des différents codes ou des conventions européennes et internationales dans ces textes.
