@@ -37,7 +37,7 @@
     - How to use basic libraries such as NLTK, alongside libraries which utilize deep learning to solve common NLP problems
   - NLTK, scikit-learn, regex, gensim, spaCy, polyglot, fuzzywuzzy, difflib
 ### Coursera
-- Introduction  to recommender systems: non personalized and content based
+- <a href="https://www.coursera.org/account/accomplishments/certificate/2LLUFDTNU6B5">Introduction  to recommender systems: non personalized and content based</a>
 
 ### In Progress
 - H20
