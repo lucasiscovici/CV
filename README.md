@@ -130,4 +130,8 @@ trois mois consécutifs.
     - Réalisation d’une application mobile professionnel pour les VTC
   -  Superprof en Informatique <a href="https://www.superprof.fr/informatique-cours-initiations-questions-niveaux-1er-cours-offert.html">Superprof</a>
     - J'ai donné près de 100h de cours d'informatique en programmation Web et mobile (IOS), Java et VBA
-    
+## Stage (internships) 
+  - Outil dynamique de prédiction de la mortalité chez des patients de réanimation / Unité IAME, Équipe BIPID, Inserm 
+    - Poursuivre l'exploration des facteurs pronostiques réanimation présentant un sepsis ou un choc septique en proposant un outil permettant l'estimation dynamique de la probabilité d'un évènement clinique au fur et à mesure de la disponibilité de nouvelles variables.
+    - Analyse de survie (Cox, Landmark)
+    - Data Science, Machine Learning
