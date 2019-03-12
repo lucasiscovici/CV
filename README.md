@@ -1,5 +1,9 @@
 # CV
-
+## Stage (internship) M2
+  - Outil dynamique de prédiction de la mortalité chez des patients de réanimation / Unité IAME, Équipe BIPID, Inserm 
+    - Poursuivre l'exploration des facteurs pronostiques réanimation présentant un sepsis ou un choc septique en proposant un outil permettant l'estimation dynamique de la probabilité d'un évènement clinique au fur et à mesure de la disponibilité de nouvelles variables.
+    - Analyse de survie (Cox, Landmark)
+    - Data Science, Machine Learning
 ## Certificats 
 ### DataCamp 
 - <a href="https://www.datacamp.com/tracks/python-programmer" target="_blank">Python Programmer</a> (A Python Programmer uses their programming skills to wrangle data and build tools for data analysis)
@@ -76,7 +80,7 @@
 - Management de projet (Agile), Droit de l'informatique et prop industrielle
 - Supervised Learning, Reinforcement Learning, UnSupervised Learning
 - Git, Docker
-- ***Projects***:
+- ***Projects M1***:
   - **Analyse de Données**[/luluisco/ADD](https://github.com/luluperet/ADD) (ADD) 
     - Analyser de données du jeu de données “villes”, présentant par villes, différentes informations, tel que les salaires moyen de plusieurs métiers, les prix et quelques indicateurs essentiellement économiques.
     - R (FactoMineR, factoextra, corrplot)
@@ -116,8 +120,27 @@ trois mois consécutifs.
         - gap
     - Visualisation:
       - Factoextra
+  - ***Projects M2***:
+    -  Exploration visuelle des données [/luluisco/exploration-visuelles-genomique](https://github.com/luluperet/exploration-visuelles-genomique) 
+      - Ce projet est un travail sur données réelles. Il s'agit de mettre en œuvre les méthodes vues en cours sur plusieurs jeux de données proposés (pomeroy, gordon)
+      - Algorithmes avec approche Linéaire:
+        - ACP, LDA, MDS
+      - Non Linéaire:
+        - Isomap, LLE
+     - Language Utilisé: R (factoMineR, factoextra,tidyverse, MASS,...)
+   - Détection de la fraude financière à l’aide del’apprentissage automatique [/luluisco/methodes-ensemblistes-fraudes](https://github.com/luluperet/methodes-ensemblistes-fraudes) (Apprentissage Supervisé)
+    - Il s’agit de travailler dans ce projet sur une base de données décrivant des transactions bancaires sur une période donnée, l’objectif est la détection des transactions frauduleuses.
+    - Bayesien Naïf, KNN, LDA, QDA, Linear SVM, Non Linear SVM, Régression logistique, CART et Random Forest
+    - Voting/Stacking
+    - Classes déséquilibrées: SMOTE
+    - Language Utilisé: Python (sklearn, imblearn, xgboost, thundersvmScikit, lightgbm, ...)
+   - La classification croisée appliquée aux donnéestextuelles usuelles 
+   - Comparaison des modèles d'extraction de caractéristiques discriminantes
+   - Classification automatique de données temporelles en classes ordonnées
+   - Modèles de mélanges appliqués aux données d'images usuelles
+   - Qualité des document embeddings
 ## Professional Experience
-  - Développeur Web et intervention en matière de communication 
+  - Développeur Web et intervention en matière de communication (PHP)
     - Cabinet d’Avocats Wojakowski, Paris (France)
     - www.cabinet-wojakowski.com
     - Réalisation d'un site Web professionnel
@@ -130,8 +153,3 @@ trois mois consécutifs.
     - Réalisation d’une application mobile professionnel pour les VTC
   -  Superprof en Informatique <a href="https://www.superprof.fr/informatique-cours-initiations-questions-niveaux-1er-cours-offert.html">Superprof</a>
     - J'ai donné près de 100h de cours d'informatique en programmation Web et mobile (IOS), Java et VBA
-## Stage (internships) 
-  - Outil dynamique de prédiction de la mortalité chez des patients de réanimation / Unité IAME, Équipe BIPID, Inserm 
-    - Poursuivre l'exploration des facteurs pronostiques réanimation présentant un sepsis ou un choc septique en proposant un outil permettant l'estimation dynamique de la probabilité d'un évènement clinique au fur et à mesure de la disponibilité de nouvelles variables.
-    - Analyse de survie (Cox, Landmark)
-    - Data Science, Machine Learning
