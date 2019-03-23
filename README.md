@@ -6,18 +6,6 @@
     - Data Science, Machine Learning
 ## Certificats 
 ### DataCamp 
-- <a href="https://www.datacamp.com/tracks/python-programmer" target="_blank">Python Programmer</a> (A Python Programmer uses their programming skills to wrangle data and build tools for data analysis)
-  - libraries: 
-    - numpy, Pandas, re
-    - matplotlib (intro)
-    - requests, urllib, BeautifulSoup(bs4), json, glob
-    - sqlalchemy, sas7bdat, h5py
-- <a href="https://www.datacamp.com/tracks/data-analyst-with-python" target="_blank">Data Analyst with Python</a> (A Data Analyst uses data visualization and manipulation techniques to uncover insights and help organizations make better decisions)
-  - libraries:
-    - (Python Programmer libraries)
-    - EDA
-    - matplotlib, seaborn
-    - some Stats with numpy
 - <a href="https://www.datacamp.com/tracks/data-scientist-with-python" target="_blank">Data Scientist with Python</a> (A Data Scientist combines statistical and machine learning techniques with Python programming to analyze and interpret complex data)
   - libraries:
     - (Data Analyst with Python libraries)
@@ -31,6 +19,18 @@
       - Feature Extraction, Feature Selection
       - PCA, TSNE, NMF
     - Keras (DeepLearning)
+- <a href="https://www.datacamp.com/tracks/python-programmer" target="_blank">Python Programmer</a> (A Python Programmer uses their programming skills to wrangle data and build tools for data analysis)
+  - libraries: 
+    - numpy, Pandas, re
+    - matplotlib (intro)
+    - requests, urllib, BeautifulSoup(bs4), json, glob
+    - sqlalchemy, sas7bdat, h5py
+- <a href="https://www.datacamp.com/tracks/data-analyst-with-python" target="_blank">Data Analyst with Python</a> (A Data Analyst uses data visualization and manipulation techniques to uncover insights and help organizations make better decisions)
+  - libraries:
+    - (Python Programmer libraries)
+    - EDA
+    - matplotlib, seaborn
+    - some Stats with numpy
 - <a href="https://www.datacamp.com/courses/biomedical-image-analysis-in-python" target="_blank">Biomedical Image Analysis in Python</a>
   - The fundamentals of image analysis using NumPy, SciPy, and Matplotlib (whole-body CT scan, segment a cardiac MRI time series, determine whether Alzheimer’s disease changes brain structure)
     - scipy.ndimage, imageio
@@ -50,36 +50,31 @@
 - TensorFlow
 
 ## University
-### Bachelor Computer Science (Licence Infomatique) 
-- Python (numpy, pandas, scikit-learn), C, PHP, SQL, Bash, Java, HTML, CSS, JS, AJAX, NOSSQL
-- Web, AdminSys, AI Data, AI Agent, OOP, DB, Network, DP, Supervised Learning, Reinforcement Learning, UnSupervised Learning
-- ***Projects***:
-  - **Supervised research (Atelier de recherche encadrée)** [/luluperet/ARE](https://github.com/luluperet/ARE) (L1,Bachelor1) 
-    - (Modeling the spread of an epidemic with and without population movement) (Modélisation de la propagation d'une épidémie avec et sans mouvement de la population)
-    - python 
-    - simple SIR model
-    - graphics
-  - **Football and strategy (FOOTBALL ET STRATÉGIE)** [/luluperet/2I013](https://github.com/luluperet/2I013)(L2,Bachelor2)  
-    - (Programming virtual football players, Artificial intelligence and programming of coherent collective behaviors)
-    - python, OOP
-    - Agent
-    - Design Patterns: Strategy, Adapter, Decorator, State/Proxy, 
-    - supervised Learning, reinforcement Learning, genetic algorithm
-    - Decision Trees
-    - Markov decision process 
-    - Q-learning
-  - **Web Technologies** [/luluperet/3I017](https://github.com/luluperet/3I017)
-    - (Twitter)
-    - JAVA, JDBC
-    - Servlet - TOMCAT - Web Services
-    - HTML, CSS, JS, AJAX 
-    - MongoDB, MySQL
-    - Map/Reduce
 ### Master Computer Science (ARTIFICIAL INTELLIGENCE - MACHINE LEARNING FOR DATA SCIENCE)
-- C++, Java(J2EE, EJB, JMS), R, Bash, UML(starUML), Scilab, Python (numpy, pandas, scikit-learn)
-- Management de projet (Agile), Droit de l'informatique et prop industrielle
-- Supervised Learning, Reinforcement Learning, UnSupervised Learning
-- Git, Docker
+- Python(numpy, pandas, scikit-learn), R, C++, Java(J2EE, EJB, JMS), R, Bash, UML(starUML), Scilab
+- Management de projet (Agile), Droit de l'informatique et proprieté industrielle,
+- Supervised Learning, UnSupervised Learning, Machine/Deep Learning, Reinforcement Learning
+- Mixture model, Co-Clustering, Time Series
+- Git, Docker, ...
+ - ***Projects M2***:
+    -  Exploration visuelle des données [/luluisco/exploration-visuelles-genomique](https://github.com/luluperet/exploration-visuelles-genomique) 
+      - Ce projet est un travail sur données réelles. Il s'agit de mettre en œuvre les méthodes vues en cours sur plusieurs jeux de données proposés (pomeroy, gordon)
+      - Algorithmes avec approche Linéaire:
+        - ACP, LDA, MDS
+      - Non Linéaire:
+        - Isomap, LLE
+     - Language Utilisé: R (factoMineR, factoextra,tidyverse, MASS,...)
+   - Détection de la fraude financière à l’aide de l’apprentissage automatique [/luluisco/methodes-ensemblistes-fraudes](https://github.com/luluperet/methodes-ensemblistes-fraudes) (Apprentissage Supervisé)
+    - Il s’agit de travailler dans ce projet sur une base de données décrivant des transactions bancaires sur une période donnée, l’objectif est la détection des transactions frauduleuses.
+    - Bayesien Naïf, KNN, LDA, QDA, Linear SVM, Non Linear SVM, Régression logistique, CART et Random Forest
+    - Voting/Stacking
+    - Classes déséquilibrées: SMOTE
+    - Language Utilisé: Python (sklearn, imblearn, xgboost, thundersvmScikit, lightgbm, ...)
+   - La classification croisée appliquée aux données textuelles usuelles 
+   - Comparaison des modèles d'extraction de caractéristiques discriminantes
+   - Classification automatique de données temporelles en classes ordonnées
+   - Modèles de mélanges appliqués aux données d'images usuelles
+   - Qualité des document embeddings
 - ***Projects M1***:
   - **Analyse de Données**[/luluisco/ADD](https://github.com/luluperet/ADD) (ADD) 
     - Analyser de données du jeu de données “villes”, présentant par villes, différentes informations, tel que les salaires moyen de plusieurs métiers, les prix et quelques indicateurs essentiellement économiques.
@@ -120,25 +115,32 @@ trois mois consécutifs.
         - gap
     - Visualisation:
       - Factoextra
-  - ***Projects M2***:
-    -  Exploration visuelle des données [/luluisco/exploration-visuelles-genomique](https://github.com/luluperet/exploration-visuelles-genomique) 
-      - Ce projet est un travail sur données réelles. Il s'agit de mettre en œuvre les méthodes vues en cours sur plusieurs jeux de données proposés (pomeroy, gordon)
-      - Algorithmes avec approche Linéaire:
-        - ACP, LDA, MDS
-      - Non Linéaire:
-        - Isomap, LLE
-     - Language Utilisé: R (factoMineR, factoextra,tidyverse, MASS,...)
-   - Détection de la fraude financière à l’aide del’apprentissage automatique [/luluisco/methodes-ensemblistes-fraudes](https://github.com/luluperet/methodes-ensemblistes-fraudes) (Apprentissage Supervisé)
-    - Il s’agit de travailler dans ce projet sur une base de données décrivant des transactions bancaires sur une période donnée, l’objectif est la détection des transactions frauduleuses.
-    - Bayesien Naïf, KNN, LDA, QDA, Linear SVM, Non Linear SVM, Régression logistique, CART et Random Forest
-    - Voting/Stacking
-    - Classes déséquilibrées: SMOTE
-    - Language Utilisé: Python (sklearn, imblearn, xgboost, thundersvmScikit, lightgbm, ...)
-   - La classification croisée appliquée aux donnéestextuelles usuelles 
-   - Comparaison des modèles d'extraction de caractéristiques discriminantes
-   - Classification automatique de données temporelles en classes ordonnées
-   - Modèles de mélanges appliqués aux données d'images usuelles
-   - Qualité des document embeddings
+### Bachelor Computer Science (Licence Infomatique) 
+- Python (numpy, pandas, scikit-learn), C, PHP, SQL, Bash, Java, HTML, CSS, JS, AJAX, NOSSQL
+- Web, AdminSys, AI Data, AI Agent, OOP, DB, Network, DP, Supervised Learning, Reinforcement Learning, UnSupervised Learning
+- ***Projects***:
+  - **Supervised research (Atelier de recherche encadrée)** [/luluperet/ARE](https://github.com/luluperet/ARE) (L1,Bachelor1) 
+    - (Modeling the spread of an epidemic with and without population movement) (Modélisation de la propagation d'une épidémie avec et sans mouvement de la population)
+    - python 
+    - simple SIR model
+    - graphics
+  - **Football and strategy (FOOTBALL ET STRATÉGIE)** [/luluperet/2I013](https://github.com/luluperet/2I013)(L2,Bachelor2)  
+    - (Programming virtual football players, Artificial intelligence and programming of coherent collective behaviors)
+    - python, OOP
+    - Agent
+    - Design Patterns: Strategy, Adapter, Decorator, State/Proxy, 
+    - supervised Learning, reinforcement Learning, genetic algorithm
+    - Decision Trees
+    - Markov decision process 
+    - Q-learning
+  - **Web Technologies** [/luluperet/3I017](https://github.com/luluperet/3I017)
+    - (Twitter)
+    - JAVA, JDBC
+    - Servlet - TOMCAT - Web Services
+    - HTML, CSS, JS, AJAX 
+    - MongoDB, MySQL
+    - Map/Reduce
+
 ## Professional Experience
   - Développeur Web et intervention en matière de communication (PHP)
     - Cabinet d’Avocats Wojakowski, Paris (France)
