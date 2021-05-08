@@ -1,4 +1,7 @@
 # CV
+## Software Engineer - Moon Health
+- web, mobile, back, ble, usb
+- data science covid
 ## Stage (internship) M2
   - Outil dynamique de prédiction de la mortalité chez des patients de réanimation / Unité IAME, Équipe BIPID, Inserm 
     - Poursuivre l'exploration des facteurs pronostiques réanimation présentant un sepsis ou un choc septique en proposant un outil permettant l'estimation dynamique de la probabilité d'un évènement clinique au fur et à mesure de la disponibilité de nouvelles variables.
