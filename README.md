@@ -57,30 +57,30 @@
 - Mixture model, Co-Clustering, Time Series
 - Git, Docker, ...
  - ***Projects M2***:
-    -  Exploration visuelle des données [/luluisco/exploration-visuelles-genomique](https://github.com/luluperet/exploration-visuelles-genomique) 
-      - Ce projet est un travail sur données réelles. Il s'agit de mettre en œuvre les méthodes vues en cours sur plusieurs jeux de données proposés (pomeroy, gordon)
-      - Algorithmes avec approche Linéaire:
-        - ACP, LDA, MDS
-      - Non Linéaire:
-        - Isomap, LLE
-     - Language Utilisé: R (factoMineR, factoextra,tidyverse, MASS,...)
-   - Détection de la fraude financière à l’aide de l’apprentissage automatique [/luluisco/methodes-ensemblistes-fraudes](https://github.com/luluperet/methodes-ensemblistes-fraudes) (Apprentissage Supervisé)
-    - Il s’agit de travailler dans ce projet sur une base de données décrivant des transactions bancaires sur une période donnée, l’objectif est la détection des transactions frauduleuses.
-    - Bayesien Naïf, KNN, LDA, QDA, Linear SVM, Non Linear SVM, Régression logistique, CART et Random Forest
-    - Voting/Stacking
-    - Classes déséquilibrées: SMOTE
-    - Language Utilisé: Python (sklearn, imblearn, xgboost, thundersvmScikit, lightgbm, ...)
-   - La classification croisée appliquée aux données textuelles usuelles 
-   - Comparaison des modèles d'extraction de caractéristiques discriminantes
-   - Classification automatique de données temporelles en classes ordonnées
-   - Modèles de mélanges appliqués aux données d'images usuelles
-   - Qualité des document embeddings
+    -  Exploration visuelle des données [/lucasiscovici/exploration-visuelles-genomique](https://github.com/lucasiscovici/exploration-visuelles-genomique) 
+       - Ce projet est un travail sur données réelles. Il s'agit de mettre en œuvre les méthodes vues en cours sur plusieurs jeux de données proposés (pomeroy, gordon)
+       - Algorithmes avec approche Linéaire:
+          - ACP, LDA, MDS
+       - Non Linéaire:
+          - Isomap, LLE
+       - Language Utilisé: R (factoMineR, factoextra,tidyverse, MASS,...)
+   - Détection de la fraude financière à l’aide de l’apprentissage automatique [/lucasiscovici/methodes-ensemblistes-fraudes](https://github.com/lucasiscovici/methodes-ensemblistes-fraudes) (Apprentissage Supervisé)
+      - Il s’agit de travailler dans ce projet sur une base de données décrivant des transactions bancaires sur une période donnée, l’objectif est la détection des transactions frauduleuses.
+      - Bayesien Naïf, KNN, LDA, QDA, Linear SVM, Non Linear SVM, Régression logistique, CART et Random Forest
+      - Voting/Stacking
+      - Classes déséquilibrées: SMOTE
+      - Language Utilisé: Python (sklearn, imblearn, xgboost, thundersvmScikit, lightgbm, ...)
+   - La classification croisée appliquée aux données textuelles usuelles [lucasiscovici/documents-embeddings](https://github.com/lucasiscovici/exploration-visuelles-genomique)
+   - Comparaison des modèles d'extraction de caractéristiques discriminantes [lucasiscovici/autoencodeur-convolutionel-extraction-caracteristiques](https://github.com/lucasiscovici/autoencodeur-convolutionel-extraction-caracteristiques)
+   - Classification automatique de données temporelles en classes ordonnées [lucasiscovici/series-temporelles-fisher](https://github.com/lucasiscovici/series-temporelles-fisher)
+   - Modèles de mélanges appliqués aux données d'images usuelles [lucasiscovici/mixture-model-images](https://github.com/lucasiscovici/mixture-model-images)
+   - Qualité des document embeddings [lucasiscovici/documents-embeddings](https://github.com/lucasiscovici/documents-embeddings)
 - ***Projects M1***:
-  - **Analyse de Données**[/luluisco/ADD](https://github.com/luluperet/ADD) (ADD) 
+  - **Analyse de Données**[/lucasiscovici/ADD](https://github.com/lucasiscovici/ADD) (ADD) 
     - Analyser de données du jeu de données “villes”, présentant par villes, différentes informations, tel que les salaires moyen de plusieurs métiers, les prix et quelques indicateurs essentiellement économiques.
     - R (FactoMineR, factoextra, corrplot)
     - EDA, PCA
-  - **XPLANNER | Web**  [/luluisco/XPLANNER](https://github.com/luluperet/XPLANNER) (Internet et services Web, Applications distribuées)
+  - **XPLANNER | Web**  [/lucasiscovici/XPLANNER](https://github.com/lucasiscovici/XPLANNER) (Internet et services Web, Applications distribuées)
     - FeedBack Planner 90 est un site web qui a pour but la création de TodoList ( de listes de choses à faire), pour chaque sessions, mois, semaines et jours. 
     Nous pensons que pour bien s’organiser il faut déterminer des sessions, qui sont simplement
 trois mois consécutifs.
@@ -90,7 +90,7 @@ trois mois consécutifs.
     - BackEnd: Spring Boot (gradle, Web Services, JPA, Security,hsqldb)
     - FrontEnt: Front-End: Framework Vue.js (The Progressive JavaScript Framework)
       - npm, webpack, scss, babel, vuex, vue-persistedstate
-  -  **Analyse des Sentiments sur AMAZON** [/luluisco/BDAV](https://github.com/luluperet/BDAV) (BDAV)
+  -  **Analyse des Sentiments sur AMAZON** [/lucasiscovici/BDAV](https://github.com/lucasiscovici/BDAV) (BDAV)
      - Combinaison des N-grams(unigram, bigram,trigram) et de méthodes ensemblistes  (Naive Bayes, Voting, Stacking)
      - Scraping Sur Amazon (PHP)
      - Préprocessing: Text Mining (scikit-learn, NLTK ) 
@@ -119,12 +119,12 @@ trois mois consécutifs.
 - Python (numpy, pandas, scikit-learn), C, PHP, SQL, Bash, Java, HTML, CSS, JS, AJAX, NOSSQL
 - Web, AdminSys, AI Data, AI Agent, OOP, DB, Network, DP, Supervised Learning, Reinforcement Learning, UnSupervised Learning
 - ***Projects***:
-  - **Supervised research (Atelier de recherche encadrée)** [/luluperet/ARE](https://github.com/luluperet/ARE) (L1,Bachelor1) 
+  - **Supervised research (Atelier de recherche encadrée)** [/lucasiscovici/ARE](https://github.com/lucasiscovici/ARE) (L1,Bachelor1) 
     - (Modeling the spread of an epidemic with and without population movement) (Modélisation de la propagation d'une épidémie avec et sans mouvement de la population)
     - python 
     - simple SIR model
     - graphics
-  - **Football and strategy (FOOTBALL ET STRATÉGIE)** [/luluperet/2I013](https://github.com/luluperet/2I013)(L2,Bachelor2)  
+  - **Football and strategy (FOOTBALL ET STRATÉGIE)** [/lucasiscovici/2I013](https://github.com/lucasiscovici/2I013)(L2,Bachelor2)  
     - (Programming virtual football players, Artificial intelligence and programming of coherent collective behaviors)
     - python, OOP
     - Agent
@@ -133,7 +133,7 @@ trois mois consécutifs.
     - Decision Trees
     - Markov decision process 
     - Q-learning
-  - **Web Technologies** [/luluperet/3I017](https://github.com/luluperet/3I017)
+  - **Web Technologies** [/lucasiscovici/3I017](https://github.com/lucasiscovici/3I017)
     - (Twitter)
     - JAVA, JDBC
     - Servlet - TOMCAT - Web Services
@@ -143,8 +143,7 @@ trois mois consécutifs.
 
 ## Professional Experience
   - Développeur Web et intervention en matière de communication (PHP)
-    - Cabinet d’Avocats Wojakowski, Paris (France)
-    - www.cabinet-wojakowski.com
+    - Cabinet d’avocats, Paris (France)
     - Réalisation d'un site Web professionnel
     - Gestion de la communication et des campagnes promotionnelles (Google Adwords)
   - Conception et réalisation d’une application de recommandations (Suggest - IA Recommendation) dans plusieurs domaines culturels (Cinéma, Musique, Lecture et Séries TV) 
