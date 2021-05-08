@@ -70,7 +70,7 @@
       - Voting/Stacking
       - Classes déséquilibrées: SMOTE
       - Language Utilisé: Python (sklearn, imblearn, xgboost, thundersvmScikit, lightgbm, ...)
-   - La classification croisée appliquée aux données textuelles usuelles [lucasiscovici/documents-embeddings](https://github.com/lucasiscovici/exploration-visuelles-genomique)
+   - La classification croisée appliquée aux données textuelles usuelles [RapportCoClust.pdf](https://github.com/lucasiscovici/coClustProjet/raw/master/RapportCoClust.pdf)
    - Comparaison des modèles d'extraction de caractéristiques discriminantes [lucasiscovici/autoencodeur-convolutionel-extraction-caracteristiques](https://github.com/lucasiscovici/autoencodeur-convolutionel-extraction-caracteristiques)
    - Classification automatique de données temporelles en classes ordonnées [lucasiscovici/series-temporelles-fisher](https://github.com/lucasiscovici/series-temporelles-fisher)
    - Modèles de mélanges appliqués aux données d'images usuelles [lucasiscovici/mixture-model-images](https://github.com/lucasiscovici/mixture-model-images)
